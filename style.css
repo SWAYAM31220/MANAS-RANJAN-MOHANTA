@@ -1,0 +1,11 @@
+body{
+    background-color: aquamarine;
+}
+.head{
+    text-align: center;
+    font-size: larger;
+    background-color: darkslategrey;
+    margin-top: 0;
+    position: relative;
+    
+}
